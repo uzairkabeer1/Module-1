@@ -1,3 +1,6 @@
+# This testing just take one image from the webcam and
+# display how the image is being passsed to the image
+
 import cv2
 import mediapipe as mp
 import joblib
